@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_satu">FRAGMENT_SATU</string>
+    <string name="pindah_fragmen_dua">PINDAH FRAGMEN DUA</string>
+    <string name="pindah_fragment_dua">pindah_fragment_dua</string>
+</resources>
